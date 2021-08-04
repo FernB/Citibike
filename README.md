@@ -11,8 +11,7 @@ trends over 2018 are published here: https://public.tableau.com/app/profile/fern
 ```
 
 |__2018/                 
-|__clean data/   
-|    |__ about.html              
+|__clean data/                
 |__ .gitignore
 |__ citibike.ipynb    
 
@@ -76,10 +75,16 @@ hypothesis that the majority of ridership are commuters. The most popular statio
 see a high number of travellers and commuters. 
 
 There is limited variation in the starting stations popularity over the months however there was a drop in ending popularity 
-the two ferry stations towards the end of the year.
+the two ferry stations towards the end of the year. This could be due to changes that occured in the Ferry services between 
+2018 and 2019: https://www.ferry.nyc/routes-and-schedules/route/lower-east-side/
 
 
+## Conclusion
 
+
+[The Tableau story of 2018 Citi Bike Ridership](https://public.tableau.com/app/profile/fern1230/viz/CitibikeHWFB/CitibikeRidershipTrends2018?publish=yes)
+shows that the average rider is male between the ages of 20 to 39 using the service for short 15 minute trips to and from subway/ferry/train stations on their 
+daily commute working a 9 to 5, Monday to Friday job.
 
 
 
